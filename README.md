@@ -11,16 +11,20 @@ Será parte das obrigações do aluno aprimorar os modelos já desenvolvidos e d
 Os modelos elaborados idealizados por nós, podem eventualmente, ser destinados também à se tornar uma ferramenta para suporte de tomada de decisões na avaliação de espécies ameaçadas e exóticas para órgãos governamentais.
 
 Sobre modelos educativos para ensino de ecologia de populações
+
 **Em breve...**
 
 Sobre Shiny-App
+
 **Em breve...**
 
 Sobre o software R:
+
 **Em breve...**
 
 
 Referências:
+
 1- Ecologia 4ªed. (Gotelli, 2009)
 2- Ecologia: de indivíduos à ecossistemas (Begon et al. 2009)
 
