@@ -1,7 +1,7 @@
 ### Em construção
 Em breve iremos abrir uma vaga para alunos de graduação, com possíbilidade de bolsa para o projeto **Desenvolvimento de aplicativo em Shiny-App/R para ensino de ecologia de populações **
 
-O aluno irá trabalhar comigo e sob a orientação da prof. Dr. Maja Kajin deenvolvento um aplicativo em Shiny para ensino de ecologia populacões com foco no conteúdo programado dos livros textos de ecologia do Gotelli (2009) (Cap.1,2,3) e Begon et al. (2009) (Parte 1). Eventualmente o aluno irá concorrer à uma bolsa de iniciação científica quando aberto o edital para o mesmo.
+O aluno irá trabalhar comigo e sob a orientação da prof. Dr. Maja Kajin desenvolvento um aplicativo em Shiny para ensino de ecologia populacões com foco no conteúdo programado dos livros textos de ecologia do Gotelli (2009) (Cap.1,2,3) e Begon et al. (2009) (Parte 1). Eventualmente o aluno irá concorrer à uma bolsa de iniciação científica quando aberto o edital para o mesmo.
 
 Será parte das obrigações do aluno aprimorar os modelos já desenvolvidos e disponibilizá-los gratuitamente na internet.
 
@@ -38,7 +38,7 @@ Os modelos elaborados idealizados por nós, podem eventualmente, ser destinados 
 * Paciência
 * Organização/disciplina
 * Interesse
-* Habito de leitura
+* Hábito de leitura
 
 #### Quais as habilidades que o aluno deve desenvolver ao longo do estágio
  - Conhecimento teórico em dinâmica e modelagem de populações;
@@ -49,6 +49,7 @@ Os modelos elaborados idealizados por nós, podem eventualmente, ser destinados 
 #### Referências:
 
 1- Ecologia 4ªed. (Gotelli, 2009)
+
 2- Ecologia: de indivíduos à ecossistemas (Begon et al. 2009)
 
 
