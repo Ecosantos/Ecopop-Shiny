@@ -7,6 +7,8 @@ Será parte das obrigações do aluno aprimorar os modelos já desenvolvidos e d
 
 Os modelos elaborados idealizados por nós, podem eventualmente, ser destinados também à se tornar uma ferramenta para suporte de tomada de decisões na avaliação de espécies ameaçadas e exóticas por parte dos órgãos governamentais.
 
+O aluno fará parte do Laboratório de Ecologia de Mamíferos, coordenado pelas professoras Dra. Helena Bergallo e Dra. Maja Kajin. Como membro do laboratório, o aluno será constante estimulado à participar das atividades de campo do lab sempre que possível, apesar de inicialmente não fazer parte do presente projeto e não implicar em qualquer obrigação de campo.
+
 #### Sobre modelos educativos para ensino de ecologia de populações
 
 **Em breve...**
