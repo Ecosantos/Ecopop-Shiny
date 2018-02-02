@@ -1,7 +1,9 @@
 ### Em construção
 Em breve iremos abrir uma vaga para alunos de graduação, com possíbilidade de bolsa para o projeto **Desenvolvimento de aplicativo em Shiny-App/R para ensino de ecologia de populações **
 
-O aluno irá trabalhar comigo e sob a orientação da prof. Dr. Maja Kajin desenvolvento um aplicativo em Shiny para ensino de ecologia populacões com foco no conteúdo programado dos livros textos de ecologia do Gotelli (2009) (Cap.1,2,3) e Begon et al. (2009) (Parte 1). Eventualmente o aluno irá concorrer à uma bolsa de iniciação científica quando aberto o edital para o mesmo.
+O aluno irá trabalhar comigo [Gabriel](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4457917Z6)
+e sob a orientação da prof. Dra. [Maja Kajin](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4770409Z9), 
+desenvolvento um aplicativo em Shiny-app/R para ensino de ecologia populacões com foco no conteúdo programado dos livros textos de ecologia do Gotelli (2009) (Cap.1,2,3) e Begon et al. (2009) (Parte 1). Eventualmente o aluno irá concorrer à uma bolsa de iniciação científica quando aberto o edital para o mesmo.
 
 Será parte das obrigações do aluno aprimorar os modelos já desenvolvidos e disponibilizá-los gratuitamente na internet.
 
@@ -11,11 +13,22 @@ O aluno fará parte do [Laboratório de Ecologia de Mamíferos](https://lemauerj
 
 #### Sobre modelos educativos para ensino de ecologia de populações
 
-**Em breve...**
+**Em construção...**
+
+Exemplo de software disponível para ensino de ecologia de populações [Populus webpage](https://cbs.umn.edu/populus/download-populus)
+
 
 #### Sobre Shiny-App
 
-**Em breve...**
+**Em construção...**
+
+
+[Exemplo de uso do Shiny](https://gallery.shinyapps.io/Ebola-Dynamic/)
+
+[Exemplo de uso no Brasil - 1](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1038869/disseminando-a-aplicacao-do-r-shiny-em-metodos-quantitativos-e-computacao-cientifica-na-web)
+
+[Exemplo de uso no Brasil - 2](http://ce.esalq.usp.br/content/uso-do-shiny-para-o-ensino-da-estat%C3%ADstica-teoria-e-aplica%C3%A7%C3%B5es)
+
 
 #### Sobre o software R:
 
