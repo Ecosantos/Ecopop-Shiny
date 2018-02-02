@@ -75,3 +75,12 @@ Exemplo de Artigo sobre o [R](https://www.researchgate.net/publication/237195976
 2- Ecologia: de indivíduos à ecossistemas (Begon et al. 2009)
 
 
+#### Li e concordei com tudo, não sou um robô e continuo interessado....
+#### OU
+#### Li tudo, mas ainda tenho dúvidas ou não entendi como essas coisas funcionariam....
+
+  Nesse caso é só enviar um email para mim (ssantos.gabriel@gmail.com) com cópia para a professora Maja Kajin (majakajin@gmail.com) para conversamos ou esclarecer suas duvidas.
+  
+
+  
+  
