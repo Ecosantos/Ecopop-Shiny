@@ -17,6 +17,8 @@ O aluno fará parte do [Laboratório de Ecologia de Mamíferos](https://lemauerj
 
 Exemplo de software disponível para ensino de ecologia de populações [Populus webpage](https://cbs.umn.edu/populus/download-populus)
 
+[Pophelper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12509/abstract)
+
 
 #### Sobre Shiny-App
 
@@ -31,8 +33,13 @@ Exemplo de software disponível para ensino de ecologia de populações [Populus
 
 
 #### Sobre o software R:
+O R é uma linguagem de programação muito mais abrangente do que um programa de análise gráfica e/ou estatística. Apesar de muito utilizado dentro da ecologia para as análises, o software R permite uma gama enorme de possíbilidades, desde a realização de análises à elaboração de livros, sites e mais atualmente apps interativos como é o caso do Shiny. 
 
-**Em breve...**
+As possibilidades de uso do R são um campo à parte a ser explorado, no entanto, a aprendizagem é um pouco complicada no início pois geralmente nós biólogos não estamos familiarizados com os conceitos de programação. Geralmente imaginamos a aprendizagem de uma linguagem de programação como uma curva em S, onde no início aprendemos lentamente os conceitos da programação até começarmos a ser autônomos em nossa própria aprendizagem, que passa a aumentar rapidamente até uma "fluência" na linguagem de programação.
+
+O uso do R com certeza será um desafio para o aluno de graduação que se candidatar à essa vaga, porém o aluno terá todo o suporte necessário comigo e com a professora Maja Kajin. Além disso, pode ser uma grande oportunidade para o aluno que deseja manter-se tanto na área de pesquisa quanto educacional, uma vez que ao final do projeto, se bem realizado, o mesmo terá uma patente que esperamos ser amplamente utilizada dentro dos cursos de graduação e pós-graduação no Brasil.
+
+Exemplo de Artigo sobre o [R](https://www.researchgate.net/publication/237195976_O_programa_R_e_suas_aplicacoes_em_Herpetologia)
 
 ##### Pré-requisitos do aluno:
   - ** INTERESSE EM ECOLOGIA DE POPULAÇÕES**
