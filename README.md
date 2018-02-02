@@ -14,9 +14,9 @@ O aluno fará parte do [Laboratório de Ecologia de Mamíferos](https://lemauerj
 #### Sobre modelos educativos para ensino de ecologia de populações
 
 **Em construção...**
+*Por que utilizar modelos para ensino de dinâmica populacional - em breve....*
 
-Exemplo de software disponível para ensino de ecologia de populações [Populus webpage](https://cbs.umn.edu/populus/download-populus)
-
+Exemplos de software disponíveis para ensino de ecologia de populações [Populus webpage](https://cbs.umn.edu/populus/download-populus)
 [Pophelper](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12509/abstract)
 
 
